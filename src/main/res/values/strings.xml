@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MAD1</string>
+    <string name="radioButton2">Easy</string>
+    <string name="textView2">Add a Trave﻿l  Location</string>
+    <string name="textView6">Location Name :</string>
+    <string name="textView7">Pick a mode :</string>
+    <string name="radioButton">Moderate</string>
+    <string name="radioButton3">Hard</string>
+    <string name="button">Submit</string>
+    <string name="textView9">Peacock Hill</string>
+    <string name="textView10">Gallery</string>
+    <string name="button4">Add</string>
+    <string name="button5">Delete</string>
+    <string name="textView11">Peacock Hill</string>
+    <string name="button9">Map</string>
+    <string name="button10">Add to Fav</string>
+    <string name="button11">Gallery</string>
+    <string name="button12">Camping Gear</string>
+    <string name="button13">Book a Room</string>
+    <string name="button14">Calculate Route</string>
+    <string name="textView12">Number of Days </string>
+    <string name="textView14">- One</string>
+    <string name="textView15">Accommodation </string>
+    <string name="textView16"> - Local Restaurant</string>
+    <string name="textView17">Road Conditions</string>
+    <string name="textView20">- Vehicles with a good ground 	   clearence can go (Alto, Vitz and 4WDs)</string>
+    <string name="textView18">Route </string>
+    <string name="textView21">- Colombo -> Pussellawa -> Para deka -> Doragala -> Monarakanda -> Doragala -> Kotmale Maha Seya (15Km) -> Ulapane -> Nawalapitiya -> Katabolawa -> Nawalapitiya -> Mapakanda -> Galboda -> Hatton ->Colombo</string>
+    <string name="textView19">Tips, Notes and Special remark	</string>
+    <string name="textView22">Take Water  Do not carry Plastic items (Minimize), Make sure you bring back everything you took</string>
+
+</resources>
