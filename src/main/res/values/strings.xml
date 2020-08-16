@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Backpacker_Calculations</string>
+    <string name="AddTripHeading">Add Trip Details</string>
+    <string name="YourLocation">Your Location :</string>
+    <string name="Destination">Destination :</string>
+    <string name="VehicleDetails">Vehicle Details</string>
+    <string name="VehicleType">Vehicle Type :</string>
+    <string name="FuelType">Fuel Type :</string>
+    <string name="Drivetrain">Drivetrain :</string>
+    <string name="calculateBtn">CALCULATE</string>
+    <string name="DeleteBtn">DELETE</string>
+    <string name="SaveBtn">SAVE DETAILS</string>
+    <string name="ResetBtn">RESET</string>
+</resources>
