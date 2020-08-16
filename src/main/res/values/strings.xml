@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UserLogin</string>
+    <string name="title_activity_camping_gear">ScrollingActivity</string>
+    <string name="large_text"></string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="input1">Tent Capacity :</string>
+    <string name="input2">How many tents :</string>
+    <string name="input3">How many camp chairs :</string>
+    <string name="input4">Headlamps or Flashlights :</string>
+    <string name="input5">Camp Tables :</string>
+    <string name="input6">Mallet &amp; Hammer :</string>
+    <string name="input7">Cooking Plates &amp; Cups :</string>
+    <string name="input8">Mobile Gas Device :</string>
+    <string name="input9">When do you need this :</string>
+    <string name="input10">Enter Your NIC :</string>
+</resources>
